@@ -1,0 +1,40 @@
+.navcontainer{
+    /* background: #000; */
+    height :5rem;
+    padding-top: 1rem;
+    display :flex;
+}
+.optioncotainer{
+    background-color: aliceblue;
+    width: 60%;
+    margin :auto;
+    display :flex;
+    justify-content: space-evenly;
+    height: 3rem;
+}
+.a{
+    display: flex;
+    align-items: center;
+}
+.profile{
+    overflow: hidden;
+    background-color: blue;
+    width: 3rem;
+    height: 3rem;
+    margin: auto;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    
+    background-color: blue;
+    width: 4rem;
+    height: 3rem;
+    margin: auto;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
